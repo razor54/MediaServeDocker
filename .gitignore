@@ -1,0 +1,11 @@
+.env
+Deluge
+deluge-config
+jackett
+plex
+plex-config
+radarr-config
+rm_plex-config
+sonarr
+transmission
+vpn
